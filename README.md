@@ -11,3 +11,5 @@ pip3 install -r ./requirements.txt
 ```shell
 python3 app.py ./src
 ```
+
+Рядом с распознанным будет лежать `.txt` файл.
