@@ -1,10 +1,5 @@
 # OCR on Python
 
-```shell
-pip3 install -r ./requirements.txt
-```
-
-
 Установим зависимости (долго):
 
 ```shell
